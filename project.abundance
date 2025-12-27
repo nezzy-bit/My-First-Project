@@ -6,20 +6,20 @@
   "name": "My-First-Project",
   "ioValues": [
     {
-      "name": "Wood thickness",
-      "ioValue": 0.7
-    },
-    {
       "name": "table height",
       "ioValue": 18
     },
     {
-      "name": "table width",
-      "ioValue": 15
-    },
-    {
       "name": "table length",
       "ioValue": 30
+    },
+    {
+      "name": "Wood thickness",
+      "ioValue": 0.7
+    },
+    {
+      "name": "table width",
+      "ioValue": 15
     }
   ],
   "topLevel": true,
@@ -32,8 +32,8 @@
     },
     {
       "atomType": "Readme",
-      "x": 0.18252987227029255,
-      "y": 0.21052631578947367,
+      "x": 0.17510259917920656,
+      "y": 0.1897590361445783,
       "uniqueID": 1745161108672,
       "name": "README",
       "readMeText": "Readme text here",
@@ -762,8 +762,8 @@
     },
     {
       "atomType": "Molecule",
-      "x": 0.43737373737373736,
-      "y": 0.4472049689440994,
+      "x": 0.4367531932426864,
+      "y": 0.4312393887945671,
       "uniqueID": 1745162618505,
       "name": "Legs",
       "ioValues": [
@@ -2199,6 +2199,31 @@
         }
       ],
       "fileTypeVersion": 1
+    },
+    {
+      "atomType": "Readme",
+      "x": 0.08899876390605686,
+      "y": 0.7011884550084889,
+      "uniqueID": "id-312",
+      "name": "README",
+      "readMeText": "Readme text here",
+      "global": true
+    },
+    {
+      "atomType": "RegularPolygon",
+      "x": 0.1561598681499794,
+      "y": 0.733446519524618,
+      "uniqueID": "id-314",
+      "ioValues": [
+        {
+          "name": "number of sides",
+          "ioValue": 5
+        },
+        {
+          "name": "diameter",
+          "ioValue": 10
+        }
+      ]
     }
   ],
   "allConnectors": [
